@@ -1,0 +1,42 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/joy/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/joy/ioopm/inlup2/Inlupp2/"
+ "/home/joy/ioopm/inlup1/"
+ "/home/joy/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "vackra_lager.txt"
+ "tree.h"
+ "init.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/joy/ioopm/inlup4/source/" (23058 54931 378544 653000) "Cos.java" "Division.java" "TestDivision.java" "Addition.java" "Binary.java" "TestMultiplication.java" "Subtraction.java" "Negation.java~" "Assignment.java" "TestAddition.java" "./" "Unary.java" "Atom.java" "Unary.java~" "Multiplication.java" "TestSubtraction.java" "../" "Negation.java" "TestFile.java" "Sin.java~" "Constant.java" "Log.java" "Sin.java" "Sexpr.java")
+
+ ("/home/joy/ioopm/inlup3/code/" (23052 16491 4638 992000) "Post.java~" "UserPassword.java~" "PostAction.java~" "PostActionMessage.java~" "Account.java" "Logout.java" "Feed.java~" "PostActionMessage.java" "PostMessage.java~" "NameChange.java~" "Message.java~" "AddFriend.java" "RemoveFriend.java~" "RemoveFriend.java" "Login.java" "FriendRequest.java~" "SyncResponse.java" "NameChange.java" "Server.java~" "LikeMessage.java" "FriendRequest.java" "Logout.java~" "Comment.java" "Twitterish.java~" "Server.java" "CommentMessage.java~" "SyncRequest.java~" "./" "PasswordChange.java" "FriendRequestResponse.java~" "../" "Post.java" "Message.java" "Account.java~" "SyncResponse.java~" "Like.java" "LikeMessage.java~" "SyncRequest.java" "Login.java~" "PostAction.java" "Feed.java" "CommentMessage.java" "Twitterish.java" "Like.java~" "PasswordChange.java~" "FriendRequestResponse.java" "Comment.java~" "UserPassword.java" "PostMessage.java")
+
+ ("/home/joy/ioopm/java_lab/lab7/" (23035 8459 670755 112000) "Queue.java" "Queue.class" "Makefile" "Customer.java" "Store.java" "Queue$Node.class" "./" "../" "Register.java~" "Customer.class" "Queue$EmptyQueueException.class" "Register.class" "Queue$1.class" "Register.java" "Simulation.java" "Simulator.java" "Store.class")
+
+ ("/home/joy/ioopm/inlup2/Inlupp2/" (23015 5543 168658 974000) "list.h" "list.o" ".git/" "dblib.h" "Makefile" "tree_test" "tree_val" "tree.c" "a.out" "tree_val.c" "./" "README.md" "tree.h" "lager.c" "tree_test.c" "../" "vackra_lager.txt" "list.c" "dblib.o" "tree.o" "tree" "list_test" "list_test.c" "common.h" "lager" "dblib.c")
+
+ ("/home/joy/ioopm/inlup1/" (22986 22442 183759 227000) "new.c" "list.h" "list.o" "lesson6.c" "dblib.h" "Makefile" "tree.c~" "föreläsning8.c" "saved/" "lager.c~" "tree.c" "Inlup1/" "./" "dblib.h.gch" "tree.h" "tree.h.gch" "lager.c" "../" "list.c" "dblib.o" "tree.o" ".#lager.c" "menu.c" "lager" "dblib.c")
+
+ ("/home/joy/.emacs.d/" (22985 3706 708168 267000) "elpa/" "./" "recentf" "recentf~" "auto-save-list/" "snippets/" "../" "ioopm-packages/" "smex-items" "init.el~" "init.el" "saveplace")
+
+ ("/home/joy/" (22985 1125 840294 973000) "Desktop/" ".config/" ".sudo_as_admin_successful" "ioopm/" "Documents/" ".ICEauthority" ".bashrc" "Templates/" ".bash_history" ".mozilla/" ".pki/" ".#lesson7.c" ".Xauthority" ".emacs.d/" ".emacs~" "Public/" ".local/" ".xsession-errors.old" ".gconf/" ".gnupg/" ".bash_logout" ".cache/" "Music/" ".profile" "Videos/" ".compiz/" "./" "Downloads/" ".gnome/" "../" ".thunderbird/" "#db.c#" "Pictures/" "#lesson7.c#" ".xsession-errors" ".gitconfig" ".nano/")
+
+ ("/home/joy/ioopm/" (22968 3508 343063 497000) "lab1/" "lab4/" "joy.vandeneijkhof.5321/" "inlup1/" "lab5/" "./" "../" "lab3/" "lab2/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

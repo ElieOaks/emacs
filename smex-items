@@ -1,0 +1,20 @@
+
+;; ----- smex-history -----
+(
+ package-install
+ customize-themes
+ toggle-frame-fullscreen
+ enlarge-window-horizontally
+ quit-window
+ cd
+ 5x5
+)
+
+;; ----- smex-data -----
+(
+ (customize-themes . 3)
+ (quit-window . 2)
+ (enlarge-window-horizontally . 1)
+ (toggle-frame-fullscreen . 2)
+ (package-install . 1)
+)
